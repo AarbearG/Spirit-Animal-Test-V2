@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Wolf",
+    "role": "Guardian",
+    "embodiment": "The Loyal Sentinel",
+    "core_traits": [
+      "Loyal",
+      "Protective",
+      "Pack-oriented",
+      "Watchful",
+      "Strategic"
+    ],
+    "secondary_traits": [
+      "Survivor",
+      "Resilient",
+      "Disciplined",
+      "Attuned",
+      "Brave"
+    ]
+  }
+]
